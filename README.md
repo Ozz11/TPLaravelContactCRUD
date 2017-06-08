@@ -2,6 +2,7 @@
 
 Projet de PHP Framework Laravel
 
+0. cloner le dossier dans le dossier où tourne votre serveur Apache par exemple
 1. mettre la commande suivante dans le terminal à la racine du dossier "composer install"
 2. créer la base de données sql nommée "laraveltpcontacts" (utf8_unicode_ci) au sein de votre logiciel de gestion de BDD
 3. modifier l'username et le password correspondant à ceux utilisé par votre logiciel de gestion de BDD dans le fichier app/config/database.php
@@ -12,6 +13,7 @@ Projet de PHP Framework Laravel
 
 Laravel PHP Framework project
 
+0. clone the folder in the right folder where your Apache server for example works
 1. put the following command in your terminal at the root of the folder "composer install"
 2. create the database sql named "laraveltpcontacts" (utf8_unicode_ci) in your software which manage yours databases
 3. modify the username and the password with the ones your software which manage yours databases use in the file app/config/database.php
