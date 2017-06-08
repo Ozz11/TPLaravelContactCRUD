@@ -12,10 +12,10 @@ Projet de PHP Framework Laravel
 
 Laravel PHP Framework project
 
-1. put the follomwing command in your terminal at the root of the folder "composer install"
+1. put the following command in your terminal at the root of the folder "composer install"
 2. create the database sql named "laraveltpcontacts" (utf8_unicode_ci) in your software which manage yours databases
 3. modify the username and the password with the ones your software which manage yours databases use in the file app/config/database.php
-4. put the follomwing command in your terminal at the root of the folder "php artisan migrate"
+4. put the following command in your terminal at the root of the folder "php artisan migrate"
 5. the site is at ../public/contacts
 6. enjoy
 
